@@ -127,10 +127,14 @@ We absolutely loved the process we went through by making this.
 
 ## Avoiding such problems in the future
 
-Mistakes are easily made, especially in an environment like this. We suggest you always use a domain or IP address in your challenges that you own, to make sure abuse like this is never possible.
+Adding web requests to a CTF challenge can add flavour and make it more engaging, but how to best avoid such mistakes?
+
+- First of all, make sure you have full control over the domain or IP you include in the challenge.
+- However, if that's not feasible, using a non-existent TLD, like `hacker.d0main` makes it impossible for someone to claim such a domain.
+- Eventually, one can include an IPv4 address that starts with `127`. For example, 127.13.65.78 and 127.84.65.183 both point to localhost, making sure the requests won't leave the competitor's machine.
 
 ---
 
 > _We want to thank Nahamsec and John Hammond for making and hosting this Capture the Flag tournament. And we'd also like to thank `@awesome10billion#1164` for making the forensics challenge. We quite enjoyed it._
 
-###### Written by Crunch
+###### Written by Crunch & Chillz
