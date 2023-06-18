@@ -125,10 +125,12 @@ No, this absolutely wasn't a waste of our time and resources. First of all, the 
 
 We absolutely loved the process we went through by making this.
 
+## To the challenge author
+
+Mistakes are easily made, especially in an environment as this. We suggest you always use a domain or ip address in your challenges that you own, to make sure abuse like this is never possible.
+
 ---
 
 > _We want to thank Nahamsec and John Hammond for making and hosting this Capture the Flag tournament. And we'd also like to thank `@awesome10billion#1164` for making the forensics challenge. We quite enjoyed it._
-
-> p.s. Make sure you own the domains before using them in a challenge.
 
 ###### Written by Crunch
