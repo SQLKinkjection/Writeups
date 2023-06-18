@@ -6,8 +6,6 @@ During the process of deobfuscating the powershell payload from [the IR challeng
 
 ## How we did it
 
----
-
 After we deobfuscated the first stage of the payload, we stumbled across this powershell code:
 ![](PowershellCode.png)
 
@@ -71,8 +69,6 @@ if __name__ == '__main__':
 This python webserver would receive the base64 encoded payload from the body, pull it out of the json object, and put it in a file.
 
 ## What did we receive?
-
----
 
 After the Nahamcon CTF ended, we went ahead and checked how many files we received:
 ![](results.png)
