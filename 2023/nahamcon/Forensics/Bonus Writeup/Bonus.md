@@ -125,7 +125,7 @@ No, this absolutely wasn't a waste of our time and resources. First of all, the 
 
 We absolutely loved the process we went through by making this.
 
-## Lessons learned
+## Avoiding such problems in the future
 
 Mistakes are easily made, especially in an environment like this. We suggest you always use a domain or IP address in your challenges that you own, to make sure abuse like this is never possible.
 
