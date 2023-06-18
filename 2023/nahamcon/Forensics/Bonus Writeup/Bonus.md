@@ -137,4 +137,4 @@ Adding web requests to a CTF challenge can add flavour and make it more engaging
 
 > _We want to thank Nahamsec and John Hammond for making and hosting this Capture the Flag tournament. And we'd also like to thank `@awesome10billion#1164` for making the forensics challenge. We quite enjoyed it._
 
-###### Written by Crunch & Chillz
+###### Written by Crunch & [Chillz](https://viberunner.xyz)
