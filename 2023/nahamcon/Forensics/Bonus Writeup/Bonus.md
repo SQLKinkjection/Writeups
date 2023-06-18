@@ -134,6 +134,8 @@ A lot of these files are ending in `.lnk`, which means they are windows file sho
 
 After manually going through all the files, we concluded that nothing really of interest was captured. This means that almost everyone was smart enough to not run this on their own desktop environment, but in the VM supplied by the Nahamcon CTF.
 
+We'd also like to note that we didn't receive anything that could be identified back to a specific users, nor did we receive any sensitive files. Next to that, we'll destroy all the files and logs we've received.
+
 ## Was this a waste of time?
 
 No, this absolutely wasn't a waste of our time and resources. First of all, the CTF challenge in itself was already pretty fun to solve. Next to that, we quite enjoyed the process of making all of our quick and dirty tools. From the python web server, to the mass decoders. We're also delighted to see that almost everyone ran the "ransomware" in the Virtual Machine supplied by the CTF organisers, on not on their own machine.
