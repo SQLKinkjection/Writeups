@@ -36,7 +36,8 @@ Here we can clearly see that a zip file from the desktop (containg every file fr
 Out of curiosity, we quickly checked if the domain `thepowershellhacker.com` was claimed, expecting it to be.
 
 However, to our surprise, it wasn't!
-![A dutch website checking to check if the domain is available for sale.](claimed.png) _A dutch website checking to check if the domain is available for sale._
+![](claimed.png)
+_A dutch website checking to check if the domain is available for sale._
 
 ## What now?
 
