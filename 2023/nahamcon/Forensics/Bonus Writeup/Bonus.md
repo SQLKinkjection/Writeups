@@ -37,6 +37,7 @@ Out of curiosity, we quickly checked if the domain `thepowershellhacker.com` was
 
 However, to our surprise, it wasn't!
 ![](claimed.png)
+
 _A dutch website checking to check if the domain is available for sale._
 
 ## What now?
